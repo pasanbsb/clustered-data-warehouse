@@ -21,7 +21,8 @@ cdw_invalid_deals(dealUniqueId, dealAmount, fileName, fromCurrency, timestamp, t
  – contains erroneous deals received from the file.
 ```
 deal_count_per_currency(currency, count)
-``` – contains the count of deals grouped by the currency.
+```
+ – contains the count of deals grouped by the currency.
 - VALIDATIONS section should contain the regular expression for validate the each field in the deal. Currently it is configured to accept ant string for string fields and any double value for deal amount.
 
 
