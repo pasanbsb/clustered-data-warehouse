@@ -1,0 +1,4 @@
+com\pasanb\cdw\persistence\actor\DBWriterActor.class
+com\pasanb\cdw\persistence\domain\DealCountPerCurrency.class
+com\pasanb\cdw\persistence\domain\InvalidDeal.class
+com\pasanb\cdw\persistence\domain\Deal.class

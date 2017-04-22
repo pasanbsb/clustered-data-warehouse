@@ -1,0 +1,3 @@
+com\pasanb\cdw\App.class
+com\pasanb\cdw\manager\ActorManager.class
+com\pasanb\cdw\manager\impl\ActorManagerImpl.class
